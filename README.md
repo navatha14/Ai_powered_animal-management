@@ -1,1 +1,13 @@
 # Ai_powered_animal-management
+
+# 1.Problem Statement
+# AI-POWERED-ANIMAL-HOSPITAL-MANAGEMENT-SYSTEM
+
+ # 2.Technologies
+ # HTML,CSS,JS,PYTHON,DJANGO,SQLIT
+ 
+ #  CODE WITH TEAM MEMBERS
+ # ASHRITHA
+ # NAVATHA
+ # SAMEENA
+ # SRAVANI
